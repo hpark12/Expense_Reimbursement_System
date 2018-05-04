@@ -32,8 +32,6 @@
             <groupId>com.oracle</groupId>
             <artifactId>ojdbc7</artifactId>
             <version>12.1.0</version>
-            <scope>system</scope>
-            <systemPath>$~/.m2/repository/com/oracle/ojdbc7.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
